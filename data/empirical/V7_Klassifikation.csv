@@ -1,0 +1,253 @@
+subfield_id,teilgebiet,fachgebiet,klasse,regel
+subfields/1102,Agronomy and Crop Science,Agricultural and Biological Sciences,physisch,exakt
+subfields/1103,Animal Science and Zoology,Agricultural and Biological Sciences,physisch,exakt
+subfields/1104,Aquatic Science,Agricultural and Biological Sciences,physisch,exakt
+subfields/1105,"Ecology, Evolution, Behavior and Systematics",Agricultural and Biological Sciences,physisch,fachgebiet
+subfields/1106,Food Science,Agricultural and Biological Sciences,physisch,exakt
+subfields/1107,Forestry,Agricultural and Biological Sciences,physisch,exakt
+subfields/1100,General Agricultural and Biological Sciences,Agricultural and Biological Sciences,physisch,fachgebiet
+subfields/1108,Horticulture,Agricultural and Biological Sciences,physisch,exakt
+subfields/1109,Insect Science,Agricultural and Biological Sciences,physisch,exakt
+subfields/1110,Plant Science,Agricultural and Biological Sciences,physisch,exakt
+subfields/1111,Soil Science,Agricultural and Biological Sciences,physisch,exakt
+subfields/1204,Archeology (arts and humanities),Arts and Humanities,rechnerisch,fachgebiet
+subfields/1205,Classics,Arts and Humanities,rechnerisch,exakt
+subfields/1206,Conservation,Arts and Humanities,rechnerisch,fachgebiet
+subfields/1200,General Arts and Humanities,Arts and Humanities,rechnerisch,fachgebiet
+subfields/1202,History,Arts and Humanities,rechnerisch,exakt
+subfields/1207,History and Philosophy of Science,Arts and Humanities,rechnerisch,exakt
+subfields/1203,Language and Linguistics,Arts and Humanities,rechnerisch,exakt
+subfields/1208,Literature and Literary Theory,Arts and Humanities,rechnerisch,exakt
+subfields/1209,Museology,Arts and Humanities,rechnerisch,fachgebiet
+subfields/1210,Music,Arts and Humanities,rechnerisch,exakt
+subfields/1211,Philosophy,Arts and Humanities,rechnerisch,exakt
+subfields/1212,Religious studies,Arts and Humanities,rechnerisch,exakt
+subfields/1213,Visual Arts and Performing Arts,Arts and Humanities,rechnerisch,exakt
+subfields/1302,Aging,"Biochemistry, Genetics and Molecular Biology",physisch,fachgebiet
+subfields/1303,Biochemistry,"Biochemistry, Genetics and Molecular Biology",physisch,exakt
+subfields/1304,Biophysics,"Biochemistry, Genetics and Molecular Biology",physisch,exakt
+subfields/1305,Biotechnology,"Biochemistry, Genetics and Molecular Biology",physisch,exakt
+subfields/1306,Cancer Research,"Biochemistry, Genetics and Molecular Biology",physisch,exakt
+subfields/1307,Cell Biology,"Biochemistry, Genetics and Molecular Biology",physisch,exakt
+subfields/1308,Clinical Biochemistry,"Biochemistry, Genetics and Molecular Biology",physisch,exakt
+subfields/1309,Developmental Biology,"Biochemistry, Genetics and Molecular Biology",physisch,exakt
+subfields/1310,Endocrinology,"Biochemistry, Genetics and Molecular Biology",physisch,fachgebiet
+subfields/1311,Genetics,"Biochemistry, Genetics and Molecular Biology",physisch,exakt
+subfields/1312,Molecular Biology,"Biochemistry, Genetics and Molecular Biology",physisch,exakt
+subfields/1313,Molecular Medicine,"Biochemistry, Genetics and Molecular Biology",physisch,exakt
+subfields/1314,Physiology,"Biochemistry, Genetics and Molecular Biology",physisch,exakt
+subfields/1315,Structural Biology,"Biochemistry, Genetics and Molecular Biology",physisch,exakt
+subfields/1402,Accounting,"Business, Management and Accounting",rechnerisch,exakt
+subfields/1403,Business and International Management,"Business, Management and Accounting",rechnerisch,exakt
+subfields/1410,Industrial relations,"Business, Management and Accounting",rechnerisch,fachgebiet
+subfields/1404,Management Information Systems,"Business, Management and Accounting",rechnerisch,exakt
+subfields/1405,Management of Technology and Innovation,"Business, Management and Accounting",rechnerisch,fachgebiet
+subfields/1406,Marketing,"Business, Management and Accounting",rechnerisch,exakt
+subfields/1407,Organizational Behavior and Human Resource Management,"Business, Management and Accounting",rechnerisch,fachgebiet
+subfields/1408,Strategy and Management,"Business, Management and Accounting",rechnerisch,exakt
+subfields/1409,"Tourism, Leisure and Hospitality Management","Business, Management and Accounting",rechnerisch,fachgebiet
+subfields/1502,Bioengineering,Chemical Engineering,physisch,exakt
+subfields/1503,Catalysis,Chemical Engineering,physisch,exakt
+subfields/1504,Chemical Health and Safety,Chemical Engineering,physisch,fachgebiet
+subfields/1506,Filtration and Separation,Chemical Engineering,physisch,fachgebiet
+subfields/1507,Fluid Flow and Transfer Processes,Chemical Engineering,physisch,fachgebiet
+subfields/1508,Process Chemistry and Technology,Chemical Engineering,physisch,schluesselwort
+subfields/1602,Analytical Chemistry,Chemistry,physisch,exakt
+subfields/1603,Electrochemistry,Chemistry,physisch,exakt
+subfields/1604,Inorganic Chemistry,Chemistry,physisch,exakt
+subfields/1605,Organic Chemistry,Chemistry,physisch,exakt
+subfields/1606,Physical and Theoretical Chemistry,Chemistry,gemischt,exakt
+subfields/1607,Spectroscopy,Chemistry,physisch,exakt
+subfields/1702,Artificial Intelligence,Computer Science,rechnerisch,exakt
+subfields/1703,Computational Theory and Mathematics,Computer Science,rechnerisch,exakt
+subfields/1704,Computer Graphics and Computer-Aided Design,Computer Science,rechnerisch,exakt
+subfields/1705,Computer Networks and Communications,Computer Science,rechnerisch,exakt
+subfields/1706,Computer Science Applications,Computer Science,rechnerisch,exakt
+subfields/1707,Computer Vision and Pattern Recognition,Computer Science,rechnerisch,exakt
+subfields/1708,Hardware and Architecture,Computer Science,gemischt,exakt
+subfields/1709,Human-Computer Interaction,Computer Science,gemischt,exakt
+subfields/1710,Information Systems,Computer Science,rechnerisch,exakt
+subfields/1711,Signal Processing,Computer Science,rechnerisch,exakt
+subfields/1712,Software,Computer Science,rechnerisch,exakt
+subfields/1800,General Decision Sciences,Decision Sciences,rechnerisch,fachgebiet
+subfields/1802,Information Systems and Management,Decision Sciences,rechnerisch,exakt
+subfields/1803,Management Science and Operations Research,Decision Sciences,rechnerisch,exakt
+subfields/1804,"Statistics, Probability and Uncertainty",Decision Sciences,rechnerisch,exakt
+subfields/3500,General Dentistry,Dentistry,physisch,schluesselwort
+subfields/3504,Oral Surgery,Dentistry,physisch,schluesselwort
+subfields/3505,Orthodontics,Dentistry,physisch,fachgebiet
+subfields/3506,Periodontics,Dentistry,physisch,fachgebiet
+subfields/1902,Atmospheric Science,Earth and Planetary Sciences,gemischt,fachgebiet
+subfields/1904,Earth-Surface Processes,Earth and Planetary Sciences,gemischt,fachgebiet
+subfields/1906,Geochemistry and Petrology,Earth and Planetary Sciences,physisch,schluesselwort
+subfields/1907,Geology,Earth and Planetary Sciences,gemischt,fachgebiet
+subfields/1908,Geophysics,Earth and Planetary Sciences,gemischt,fachgebiet
+subfields/1910,Oceanography,Earth and Planetary Sciences,gemischt,fachgebiet
+subfields/1911,Paleontology,Earth and Planetary Sciences,gemischt,fachgebiet
+subfields/1912,Space and Planetary Science,Earth and Planetary Sciences,gemischt,fachgebiet
+subfields/2002,Economics and Econometrics,"Economics, Econometrics and Finance",rechnerisch,exakt
+subfields/2003,Finance,"Economics, Econometrics and Finance",rechnerisch,exakt
+subfields/2000,"General Economics, Econometrics and Finance","Economics, Econometrics and Finance",rechnerisch,schluesselwort
+subfields/2102,Energy Engineering and Power Technology,Energy,gemischt,fachgebiet
+subfields/2103,Fuel Technology,Energy,gemischt,fachgebiet
+subfields/2100,General Energy,Energy,gemischt,fachgebiet
+subfields/2104,Nuclear Energy and Engineering,Energy,gemischt,fachgebiet
+subfields/2105,"Renewable Energy, Sustainability and the Environment",Energy,gemischt,fachgebiet
+subfields/2202,Aerospace Engineering,Engineering,gemischt,fachgebiet
+subfields/2216,Architecture,Engineering,gemischt,fachgebiet
+subfields/2203,Automotive Engineering,Engineering,gemischt,fachgebiet
+subfields/2204,Biomedical Engineering,Engineering,gemischt,fachgebiet
+subfields/2215,Building and Construction,Engineering,gemischt,fachgebiet
+subfields/2205,Civil and Structural Engineering,Engineering,gemischt,fachgebiet
+subfields/2206,Computational Mechanics,Engineering,rechnerisch,schluesselwort
+subfields/2207,Control and Systems Engineering,Engineering,gemischt,fachgebiet
+subfields/2208,Electrical and Electronic Engineering,Engineering,gemischt,fachgebiet
+subfields/2200,General Engineering,Engineering,gemischt,fachgebiet
+subfields/2209,Industrial and Manufacturing Engineering,Engineering,gemischt,fachgebiet
+subfields/2210,Mechanical Engineering,Engineering,gemischt,fachgebiet
+subfields/2211,Mechanics of Materials,Engineering,physisch,schluesselwort
+subfields/2214,Media Technology,Engineering,gemischt,fachgebiet
+subfields/2212,Ocean Engineering,Engineering,gemischt,fachgebiet
+subfields/2213,"Safety, Risk, Reliability and Quality",Engineering,gemischt,fachgebiet
+subfields/2302,Ecological Modeling,Environmental Science,gemischt,fachgebiet
+subfields/2303,Ecology,Environmental Science,gemischt,fachgebiet
+subfields/2304,Environmental Chemistry,Environmental Science,physisch,schluesselwort
+subfields/2305,Environmental Engineering,Environmental Science,gemischt,fachgebiet
+subfields/2306,Global and Planetary Change,Environmental Science,gemischt,fachgebiet
+subfields/2307,"Health, Toxicology and Mutagenesis",Environmental Science,gemischt,fachgebiet
+subfields/2308,"Management, Monitoring, Policy and Law",Environmental Science,rechnerisch,schluesselwort
+subfields/2309,Nature and Landscape Conservation,Environmental Science,gemischt,fachgebiet
+subfields/2310,Pollution,Environmental Science,gemischt,fachgebiet
+subfields/2311,Waste Management and Disposal,Environmental Science,gemischt,fachgebiet
+subfields/2312,Water Science and Technology,Environmental Science,gemischt,fachgebiet
+subfields/3603,Complementary and Manual Therapy,Health Professions,physisch,fachgebiet
+subfields/3604,Emergency Medical Services,Health Professions,physisch,fachgebiet
+subfields/3600,General Health Professions,Health Professions,physisch,fachgebiet
+subfields/3605,Health Information Management,Health Professions,rechnerisch,schluesselwort
+subfields/3607,Medical Laboratory Technology,Health Professions,physisch,schluesselwort
+subfields/3608,Medical Terminology,Health Professions,physisch,fachgebiet
+subfields/3609,Occupational Therapy,Health Professions,physisch,fachgebiet
+subfields/3611,Pharmacy,Health Professions,physisch,schluesselwort
+subfields/3612,"Physical Therapy, Sports Therapy and Rehabilitation",Health Professions,physisch,exakt
+subfields/3614,Radiological and Ultrasound Technology,Health Professions,physisch,fachgebiet
+subfields/3616,Speech and Hearing,Health Professions,physisch,fachgebiet
+subfields/2402,Applied Microbiology and Biotechnology,Immunology and Microbiology,physisch,exakt
+subfields/2403,Immunology,Immunology and Microbiology,physisch,exakt
+subfields/2404,Microbiology,Immunology and Microbiology,physisch,exakt
+subfields/2405,Parasitology,Immunology and Microbiology,physisch,exakt
+subfields/2406,Virology,Immunology and Microbiology,physisch,exakt
+subfields/2502,Biomaterials,Materials Science,physisch,exakt
+subfields/2503,Ceramics and Composites,Materials Science,physisch,exakt
+subfields/2504,"Electronic, Optical and Magnetic Materials",Materials Science,physisch,exakt
+subfields/2500,General Materials Science,Materials Science,physisch,schluesselwort
+subfields/2505,Materials Chemistry,Materials Science,physisch,exakt
+subfields/2506,Metals and Alloys,Materials Science,physisch,exakt
+subfields/2507,Polymers and Plastics,Materials Science,physisch,exakt
+subfields/2508,"Surfaces, Coatings and Films",Materials Science,physisch,exakt
+subfields/2602,Algebra and Number Theory,Mathematics,rechnerisch,exakt
+subfields/2604,Applied Mathematics,Mathematics,rechnerisch,exakt
+subfields/2605,Computational Mathematics,Mathematics,rechnerisch,exakt
+subfields/2607,Discrete Mathematics and Combinatorics,Mathematics,rechnerisch,exakt
+subfields/2608,Geometry and Topology,Mathematics,rechnerisch,exakt
+subfields/2610,Mathematical Physics,Mathematics,rechnerisch,exakt
+subfields/2611,Modeling and Simulation,Mathematics,rechnerisch,exakt
+subfields/2612,Numerical Analysis,Mathematics,rechnerisch,exakt
+subfields/2613,Statistics and Probability,Mathematics,rechnerisch,exakt
+subfields/2614,Theoretical Computer Science,Mathematics,rechnerisch,exakt
+subfields/2702,Anatomy,Medicine,physisch,fachgebiet
+subfields/2703,Anesthesiology and Pain Medicine,Medicine,physisch,exakt
+subfields/2704,Biochemistry (medical),Medicine,physisch,schluesselwort
+subfields/2705,Cardiology and Cardiovascular Medicine,Medicine,physisch,exakt
+subfields/2728,Clinical Neurology,Medicine,physisch,schluesselwort
+subfields/2707,Complementary and alternative medicine,Medicine,physisch,fachgebiet
+subfields/2706,Critical Care and Intensive Care Medicine,Medicine,physisch,exakt
+subfields/2708,Dermatology,Medicine,physisch,exakt
+subfields/2711,Emergency Medicine,Medicine,physisch,exakt
+subfields/2712,"Endocrinology, Diabetes and Metabolism",Medicine,physisch,exakt
+subfields/2713,Epidemiology,Medicine,gemischt,exakt
+subfields/2714,Family Practice,Medicine,physisch,fachgebiet
+subfields/2715,Gastroenterology,Medicine,physisch,exakt
+subfields/2716,Genetics (clinical),Medicine,physisch,schluesselwort
+subfields/2717,Geriatrics and Gerontology,Medicine,physisch,fachgebiet
+subfields/2718,Health Informatics,Medicine,rechnerisch,exakt
+subfields/2720,Hematology,Medicine,physisch,exakt
+subfields/2721,Hepatology,Medicine,physisch,exakt
+subfields/2723,Immunology and Allergy,Medicine,physisch,exakt
+subfields/2725,Infectious Diseases,Medicine,physisch,exakt
+subfields/2724,Internal Medicine,Medicine,physisch,fachgebiet
+subfields/2726,Microbiology (medical),Medicine,physisch,schluesselwort
+subfields/2727,Nephrology,Medicine,physisch,exakt
+subfields/2729,Obstetrics and Gynecology,Medicine,physisch,exakt
+subfields/2730,Oncology,Medicine,physisch,exakt
+subfields/2731,Ophthalmology,Medicine,physisch,exakt
+subfields/2732,Orthopedics and Sports Medicine,Medicine,physisch,exakt
+subfields/2733,Otorhinolaryngology,Medicine,physisch,exakt
+subfields/2734,Pathology and Forensic Medicine,Medicine,physisch,exakt
+subfields/2735,"Pediatrics, Perinatology and Child Health",Medicine,physisch,exakt
+subfields/2736,Pharmacology (medical),Medicine,physisch,schluesselwort
+subfields/2737,Physiology (medical),Medicine,physisch,fachgebiet
+subfields/2738,Psychiatry and Mental health,Medicine,gemischt,exakt
+subfields/2739,"Public Health, Environmental and Occupational Health",Medicine,gemischt,exakt
+subfields/2740,Pulmonary and Respiratory Medicine,Medicine,physisch,exakt
+subfields/2741,"Radiology, Nuclear Medicine and Imaging",Medicine,physisch,exakt
+subfields/2742,Rehabilitation,Medicine,physisch,fachgebiet
+subfields/2743,Reproductive Medicine,Medicine,physisch,exakt
+subfields/2745,Rheumatology,Medicine,physisch,exakt
+subfields/2746,Surgery,Medicine,physisch,exakt
+subfields/2747,Transplantation,Medicine,physisch,exakt
+subfields/2748,Urology,Medicine,physisch,exakt
+subfields/2802,Behavioral Neuroscience,Neuroscience,physisch,exakt
+subfields/2803,Biological Psychiatry,Neuroscience,physisch,fachgebiet
+subfields/2804,Cellular and Molecular Neuroscience,Neuroscience,physisch,exakt
+subfields/2805,Cognitive Neuroscience,Neuroscience,gemischt,exakt
+subfields/2806,Developmental Neuroscience,Neuroscience,physisch,fachgebiet
+subfields/2807,Endocrine and Autonomic Systems,Neuroscience,physisch,fachgebiet
+subfields/2808,Neurology,Neuroscience,physisch,fachgebiet
+subfields/2809,Sensory Systems,Neuroscience,physisch,exakt
+subfields/2910,"Issues, ethics and legal aspects",Nursing,physisch,fachgebiet
+subfields/2911,Leadership and Management,Nursing,physisch,fachgebiet
+subfields/2916,Nutrition and Dietetics,Nursing,physisch,fachgebiet
+subfields/2922,Research and Theory,Nursing,rechnerisch,schluesselwort
+subfields/3002,Drug Discovery,"Pharmacology, Toxicology and Pharmaceutics",physisch,exakt
+subfields/3003,Pharmaceutical Science,"Pharmacology, Toxicology and Pharmaceutics",physisch,exakt
+subfields/3004,Pharmacology,"Pharmacology, Toxicology and Pharmaceutics",physisch,exakt
+subfields/3005,Toxicology,"Pharmacology, Toxicology and Pharmaceutics",physisch,exakt
+subfields/3102,Acoustics and Ultrasonics,Physics and Astronomy,gemischt,fachgebiet
+subfields/3103,Astronomy and Astrophysics,Physics and Astronomy,gemischt,exakt
+subfields/3107,"Atomic and Molecular Physics, and Optics",Physics and Astronomy,physisch,exakt
+subfields/3104,Condensed Matter Physics,Physics and Astronomy,physisch,exakt
+subfields/3105,Instrumentation,Physics and Astronomy,physisch,exakt
+subfields/3106,Nuclear and High Energy Physics,Physics and Astronomy,physisch,exakt
+subfields/3108,Radiation,Physics and Astronomy,physisch,exakt
+subfields/3109,Statistical and Nonlinear Physics,Physics and Astronomy,rechnerisch,exakt
+subfields/3202,Applied Psychology,Psychology,gemischt,fachgebiet
+subfields/3203,Clinical Psychology,Psychology,gemischt,exakt
+subfields/3204,Developmental and Educational Psychology,Psychology,gemischt,fachgebiet
+subfields/3205,Experimental and Cognitive Psychology,Psychology,physisch,schluesselwort
+subfields/3200,General Psychology,Psychology,gemischt,fachgebiet
+subfields/3206,Neuropsychology and Physiological Psychology,Psychology,gemischt,fachgebiet
+subfields/3207,Social Psychology,Psychology,gemischt,fachgebiet
+subfields/3314,Anthropology,Social Sciences,rechnerisch,fachgebiet
+subfields/3302,Archeology,Social Sciences,gemischt,exakt
+subfields/3315,Communication,Social Sciences,rechnerisch,exakt
+subfields/3316,Cultural Studies,Social Sciences,rechnerisch,exakt
+subfields/3317,Demography,Social Sciences,rechnerisch,fachgebiet
+subfields/3303,Development,Social Sciences,rechnerisch,fachgebiet
+subfields/3304,Education,Social Sciences,gemischt,exakt
+subfields/3318,Gender Studies,Social Sciences,rechnerisch,exakt
+subfields/3300,General Social Sciences,Social Sciences,rechnerisch,fachgebiet
+subfields/3305,"Geography, Planning and Development",Social Sciences,gemischt,exakt
+subfields/3306,Health,Social Sciences,rechnerisch,fachgebiet
+subfields/3307,Human Factors and Ergonomics,Social Sciences,rechnerisch,fachgebiet
+subfields/3308,Law,Social Sciences,rechnerisch,exakt
+subfields/3309,Library and Information Sciences,Social Sciences,rechnerisch,exakt
+subfields/3319,Life-span and Life-course Studies,Social Sciences,rechnerisch,fachgebiet
+subfields/3310,Linguistics and Language,Social Sciences,rechnerisch,exakt
+subfields/3320,Political Science and International Relations,Social Sciences,rechnerisch,exakt
+subfields/3321,Public Administration,Social Sciences,rechnerisch,exakt
+subfields/3311,Safety Research,Social Sciences,rechnerisch,fachgebiet
+subfields/3312,Sociology and Political Science,Social Sciences,rechnerisch,exakt
+subfields/3313,Transportation,Social Sciences,rechnerisch,fachgebiet
+subfields/3322,Urban Studies,Social Sciences,rechnerisch,fachgebiet
+subfields/3402,Equine,Veterinary,physisch,fachgebiet
+subfields/3404,Small Animals,Veterinary,physisch,schluesselwort

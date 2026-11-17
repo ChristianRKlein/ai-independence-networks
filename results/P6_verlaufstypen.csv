@@ -1,0 +1,17 @@
+domaene,variante,typ,anteil
+Wissenschaft,Basis,nie isoliert,0.5846666666666667
+Wissenschaft,Basis,ein Kipppunkt (kein Wiedereintritt bis alpha_max),0.19666666666666666
+Wissenschaft,Basis,Wiedereintritt erst oberhalb 8,0.18866666666666668
+Wissenschaft,Basis,"Isolationsfenster innerhalb [0, 8]",0.029333333333333333
+Wissenschaft,Basis,schon ohne KI isoliert,0.0006666666666666666
+Wissenschaft,ohne Amplifikation (lam=0),ein Kipppunkt (kein Wiedereintritt bis alpha_max),0.9566666666666667
+Wissenschaft,ohne Amplifikation (lam=0),nie isoliert,0.042666666666666665
+Wissenschaft,ohne Amplifikation (lam=0),schon ohne KI isoliert,0.0006666666666666666
+Wirtschaft,Basis,nie isoliert,0.742
+Wirtschaft,Basis,Wiedereintritt erst oberhalb 8,0.08866666666666667
+Wirtschaft,Basis,schon ohne KI isoliert,0.086
+Wirtschaft,Basis,ein Kipppunkt (kein Wiedereintritt bis alpha_max),0.064
+Wirtschaft,Basis,"Isolationsfenster innerhalb [0, 8]",0.019333333333333334
+Wirtschaft,ohne Amplifikation (lam=0),ein Kipppunkt (kein Wiedereintritt bis alpha_max),0.8033333333333333
+Wirtschaft,ohne Amplifikation (lam=0),nie isoliert,0.11066666666666666
+Wirtschaft,ohne Amplifikation (lam=0),schon ohne KI isoliert,0.086
